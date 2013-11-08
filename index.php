@@ -177,58 +177,7 @@
 					</section>
 
 				<!-- About Me -->
-					<section id="about" class="three">
-						<div class="container">
-							<header>
-								<h2 style="color: #fff;">Comparative Market Analysis</h2>
-								<h3 style="color: #ecf0f1;">Properties sold within area of 737 2nd St #403</h3>
-							</header>
-							<div class="row">
-								<div class="4u">
-									<article class="item">
-										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
-										<header>
-										<h3><strong>14027 Corvallis St</strong></h3>
-										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,081 Sq Ft -  6,175 Lot</li>
-											<li>List: 8/2/13 - Sold: 10/4/13</li>
-											<li>List: $388,000 - SOLD $400,000</li>
-										</ul>
-									</article>
-								</div>
-								<div class="4u">
-									<article class="item">
-										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
-										<header>
-										<h3><strong>1211 Drake Ave</strong></h3>
-										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,081 Sq Ft - 5,130 Lot</li>
-											<li>List: 5/24/13 - Sold: 8/29/13</li>
-											<li>List: $359,000 - SOLD $395,000</li>
-										</ul>
-									</article>
-								</div>
-								<div class="4u">
-									<article class="item">
-										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
-										<header>
-										<h3><strong>1266 Purdue St</strong></h3>
-										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,081 Sq Ft - 5,035 Lot</li>
-											<li>List: 7/3/13 - Sold: 8/14/13</li>
-											<li>List: $399,950 - SOLD $416,000</li>
-										</ul>
-									</article>
-								</div>
-							</div>
-							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=f03b6f64-5593-4834-a140-ddac6fe11450&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.png" /></a>
-						</div>
-					</section>
-			
+
 				<!-- Contact -->
 					<section id="contact" class="four">
 						<div class="container">
