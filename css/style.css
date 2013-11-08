@@ -25,12 +25,28 @@
 }
 
 .headerlogo {
-	width: 100%;
+	width: 75%;
 	height: auto;
 }
 
 .blackblock {
 	background-color: #000000;
+	color: #ffffff;
+	max-width: 300px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.blueblock {
+	background-color: #2980b9;
+	color: #ffffff;
+	max-width: 300px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.greenblock {
+	background-color: #1abc9c;
 	color: #ffffff;
 	max-width: 300px;
 	margin: 0 auto;
