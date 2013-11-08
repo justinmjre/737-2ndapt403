@@ -81,9 +81,11 @@
 							<img class="headerlogo" src="images/teamfastagents.jpg" alt="" />
 
 							<header>
-								<h2 class="alt">Thinking about selling <span class="blackblock"> 737 2nd St #403? </span> Let us help! This is YOUR personal team of professionals. Whether you have questions about purchasing or selling, you can rest assured when you have your own Team of Fast Agents backing you.</h2>
+								<h3 class="alt">Thinking about selling <span class="blackblock"> 737 2nd St #403?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
 							</header>
-
+							<iframe src="http://mapsengine.google.com/map/embed?mid=zERNb6ZQT6mM.kvWX6H8LeZas" width="80%" height="480"></iframe>
+							<h3>Proven Results.</h3>
+							<small>Map portrays closed deals October 2012 - October 2013</small>
 							<footer>
 								<a href="#portfolio" class="button scrolly">More info</a>
 							</footer>
@@ -164,9 +166,13 @@
 								</div>
 							</div>
 							<br>
-							<a href="http://www.redfin.com/real-estate-agents/kennyt?show=reviews" target="_blank" class="image full"><img style="width: 100%;" src="images/redfin review.jpg" /></a>
+							
+							<a href="http://www.zillow.com/profile/KENNY-T-FASTAGENT/" class="image full"><img style="width: 100%;" src="images/zillow.jpg" /></a>
 							<br>
-							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
+							<a href="http://www.youtube.com/channel/UCF9s0fFFZu9W0v6Z3VwyRIA" class="image full"><img style="width: 100%;" src="images/youtube.jpg" /></a>
+							<br>
+							<a href="http://www.redfin.com/real-estate-agents/kennyt?show=reviews" class="image full"><img style="width: 100%;" src="images/redfinreview.jpg" /></a>
+							<br>
 						</div>
 					</section>
 
@@ -182,12 +188,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>5312 Walnut St</strong></h3>
+										<h3><strong>14027 Corvallis St</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,130 Sq Ft -  0 Lot</li>
-											<li>List: 8/20/13 - Pending: 8/29/13</li>
-											<li>List: $399,000 - SOLD $425,000</li>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,081 Sq Ft -  6,175 Lot</li>
+											<li>List: 8/2/13 - Sold: 10/4/13</li>
+											<li>List: $388,000 - SOLD $400,000</li>
 										</ul>
 									</article>
 								</div>
@@ -195,12 +201,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2715 55th Ave</strong></h3>
+										<h3><strong>1211 Drake Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,249 Sq Ft - 0 Lot</li>
-											<li>List: 8/9/2013 - Pending: 8/26/13</li>
-											<li>List: $349,000 - SOLD $371,000</li>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,081 Sq Ft - 5,130 Lot</li>
+											<li>List: 5/24/13 - Sold: 8/29/13</li>
+											<li>List: $359,000 - SOLD $395,000</li>
 										</ul>
 									</article>
 								</div>
@@ -208,18 +214,18 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>3435 Kingsland Ave</strong></h3>
+										<h3><strong>1266 Purdue St</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>800 Sq Ft - 0 Lot</li>
-											<li>List: 8/24/13 - Pending: 9/3/13</li>
-											<li>List: $398,000 - SOLD $420,000</li>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,081 Sq Ft - 5,035 Lot</li>
+											<li>List: 7/3/13 - Sold: 8/14/13</li>
+											<li>List: $399,950 - SOLD $416,000</li>
 										</ul>
 									</article>
 								</div>
 							</div>
 							<br />
-							<a href="images/compdata.png" class="image full fancybox"><img style="width: 100%;" src="images/compdata.png" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=f03b6f64-5593-4834-a140-ddac6fe11450&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.png" /></a>
 						</div>
 					</section>
 			
@@ -243,7 +249,7 @@
 								<a href="mailto:kenny@fastagent.me"><span class="small">kenny@fastagent.me</span></a>
 							</header>
 							<p>
-								Kenny is currently in the top 0.5% of units closed out of 20,000+ Agents in our local market. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
+								Kenny is currently in the top 0.5% of units closed out of 25,000+ Agents in our local market. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
 							</p>
 						</article>
 						<article class="4u ">
